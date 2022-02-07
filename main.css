@@ -209,7 +209,7 @@
   font-size: 1.2rem;
 }
 .about-me .about-me-img {
-  background: url(../images/me.png);
+  background: url(./images/me.png);
   background-size: cover;
   background-position: center;
   width: 40%;
